@@ -1,4 +1,4 @@
-div.nav-bar {
+nav.nav-bar {
   background-color: #000;
   list-style-type: none;
   overflow: hidden;
@@ -7,6 +7,7 @@ div.nav-bar {
 li {
   display: inline;
   float: left;
+  width: 50px;
 }
 
 p.main-name {
