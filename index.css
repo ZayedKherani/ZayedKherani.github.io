@@ -1,0 +1,9 @@
+body {
+    overflow: hidden;
+}
+
+div.title {
+    font-size: xxx-large;
+    font-weight: 700;
+    color: white;
+}
