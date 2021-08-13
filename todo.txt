@@ -7,5 +7,9 @@ TODO:  - convert navbar logos to svgs
 TODO:  - change pngs to jpgs or jpgs to pngs accordingly
 TODO: organize files
 TODO: cleanup files
+TODO: change github-pages branch to deploy branch
+TODO: privatize repo
+TODO:  - block all requests
+TODO:  - give only one person edit access to repo
 TODO: update sitemap.xml
 TODO: update google search console
