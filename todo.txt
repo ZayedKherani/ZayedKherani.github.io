@@ -1,0 +1,11 @@
+TODO: make sitemap website
+TODO: convert compatible images to transparent
+TODO: add all icons to local
+TODO: add darkmode support
+TODO: edit images for optimal loading times
+TODO:  - convert navbar logos to svgs
+TODO:  - change pngs to jpgs or jpgs to pngs accordingly
+TODO: organize files
+TODO: cleanup files
+TODO: update sitemap.xml
+TODO: update google search console
