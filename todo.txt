@@ -2,12 +2,15 @@ TODO: make sitemap website
 TODO: convert compatible images to transparent
 TODO: add all icons to local
 TODO: add darkmode support
+TODO: add favicon of peach and/or goma frinking boba
 TODO: edit images for optimal loading times
 TODO:  - convert navbar logos to svgs
 TODO:  - change pngs to jpgs or jpgs to pngs accordingly
+TODO: remove fontawesome
 TODO: organize files
 TODO: cleanup files
 TODO: change github-pages branch to deploy branch
+TODO: fix semantics if needed
 TODO: privatize repo
 TODO:  - block all requests
 TODO:  - give only one person edit access to repo
