@@ -14,5 +14,6 @@ TODO: fix semantics if needed
 TODO: privatize repo
 TODO:  - block all requests
 TODO:  - give only one person edit access to repo
+TODO:  - setup security
 TODO: update sitemap.xml
 TODO: update google search console
