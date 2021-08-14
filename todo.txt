@@ -1,19 +1,20 @@
-TODO: make sitemap website
-TODO: convert compatible images to transparent
-TODO: add all icons to local
-TODO: add darkmode support
-TODO: add favicon of peach and/or goma frinking boba
-TODO: edit images for optimal loading times
-TODO:  - convert navbar logos to svgs
-TODO:  - change pngs to jpgs or jpgs to pngs accordingly
-TODO: remove fontawesome
-TODO: organize files
-TODO: cleanup files
+ - TODO: fix projects links
+ - TODO: convert compatible images to transparent
+ - TODO: add all icons to local
+ - TODO: add darkmode support
+ - TODO: add favicon of peach and/or goma drinking boba (changed to squeam from snap on anime filter)
+ - TODO: edit images for optimal loading times
+ - TODO:  - convert navbar logos to svgs
+ - TODO:  - change pngs to jpgs or jpgs to pngs accordingly
+ - TODO: remove fontawesome
+ - TODO: organize files
+ - TODO: cleanup files
 TODO: change github-pages branch to deploy branch
-TODO: fix semantics if needed
+ - TODO: fix semantics if needed
 TODO: privatize repo
 TODO:  - block all requests
 TODO:  - give only one person edit access to repo
 TODO:  - setup security
-TODO: update sitemap.xml
+TODO: update/regenerate sitemap.xml
+TODO: make sitemap website
 TODO: update google search console
