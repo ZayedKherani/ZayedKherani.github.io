@@ -15,6 +15,6 @@ TODO: privatize repo
 TODO:  - block all requests
 TODO:  - give only one person edit access to repo
 TODO:  - setup security
-TODO: update/regenerate sitemap.xml
 TODO: make sitemap website
+TODO: update/regenerate sitemap.xml
 TODO: update google search console
